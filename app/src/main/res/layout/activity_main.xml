@@ -18,7 +18,11 @@
     <!--android:layout_width="match_parent"-->
     <!--android:layout_height="match_parent"-->
     <!--/>-->
-    <wyx.ad.baseknowlogeforview.customview.PaintHandleView
+    <!--<wyx.ad.baseknowlogeforview.customview.PaintHandleView-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="match_parent"-->
+    <!--/>-->
+    <wyx.ad.baseknowlogeforview.customview.XformodeHandleView
         android:layout_width="match_parent"
         android:layout_height="match_parent"
     />
