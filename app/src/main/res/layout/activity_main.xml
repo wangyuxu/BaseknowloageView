@@ -22,7 +22,15 @@
         <!--android:layout_width="match_parent"-->
         <!--android:layout_height="match_parent"-->
     <!--/>-->
-    <wyx.ad.baseknowlogeforview.customview.XformodeHandleView
+    <!--<wyx.ad.baseknowlogeforview.customview.XformodeHandleView-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="match_parent"-->
+    <!--/>-->
+    <!--<wyx.ad.baseknowlogeforview.customview.QQRedPointView-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="match_parent"-->
+    <!--/>-->
+    <wyx.ad.baseknowlogeforview.customview.QQRedPointViewEx
         android:layout_width="match_parent"
         android:layout_height="match_parent"
     />
